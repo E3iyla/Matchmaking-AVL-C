@@ -1,6 +1,6 @@
 #Système de matchmaking ELO-Temps 
 
-##1. Objectif du Projet
+##Objectif du Projet
 Ce projet implémente une librairie en C pour gérer des participants dans une structure d'arbre qui s'équilibre automatiquement. 
 Elle permet d'organiser les joueurs par niveau ELO et à prendre en compte le temps d'attente pour la formation des matchs.
 
@@ -19,7 +19,7 @@ Le projet est composé de 6 fichiers principaux :
  	- sc_joueur.c
 	- makefile
 
-2. Compilation et construction de l'exécutable
+##Compilation et construction de l'exécutable
 	- Pour compiler le projet et le créer, utilisez la commande make. 
 	- Puis utiliser ./matchmaking_avl.exe pour executer.
 	- Une fois compilé vous aurez l'affichage des résultats! 

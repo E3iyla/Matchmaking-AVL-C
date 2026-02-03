@@ -12,16 +12,11 @@ Elle permet d'organiser les joueurs par niveau ELO et à prendre en compte le te
 ## Structure du Projet
 Pour utiliser ce code, veuillez en premier lieu vérifier les fichiers sources.
 Le projet est composé de 6 fichiers principaux :
-	- p_joueur.h
-	- p_joueur.c
-	- p_conteneur.h
-	- p_avl.c
- 	- sc_joueur.c
-	- makefile
+	 `p_joueur.h`,  `p_joueur.c`, `p_conteneur.h`, `p_avl.c`, `sc_joueur.c`, `makefile`.
 
 ## Compilation et construction de l'exécutable
-	- Pour compiler le projet et le créer, utilisez la commande make. 
-	- Puis utiliser ./matchmaking_avl.exe pour executer.
-	- Une fois compilé vous aurez l'affichage des résultats! 
-    - Vous pouvez modifier ou ajouter des joueurs si vous le souhaitez dans  sc_joueur.c .
+- Pour compiler le projet et le créer, utilisez la commande make. 
+- Puis utiliser ./matchmaking_avl.exe pour executer.
+- Une fois compilé vous aurez l'affichage des résultats! 
+- Vous pouvez modifier ou ajouter des joueurs si vous le souhaitez dans  sc_joueur.c .
  
